@@ -1,11 +1,11 @@
 Algoritmo "semnome"
 // 
 //  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 4/5/2023
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 login:caractere
 senha:inteiro
 informadologin:caractere
@@ -19,7 +19,7 @@ resultado:inteiro
 toyota,camaro,fusca:caractere
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
   login<- "AFF"
   senha<- 5579
   
@@ -46,7 +46,7 @@ escreval("1=toyota 880.000")
 escreval("2=camaro 550.900")
 escreval("3=fusca 30.000")
 
-//opções de compra
+//opÃ§Ãµes de compra
 escreval("01 para compra a vista")
 escreval("02 para compra no cartao")
 escreval("03 para compra por financiamento")
@@ -56,7 +56,9 @@ fimse
 //compra
 escreval("informe o valor do carro")
 leia(primeironumero)
-escreval("informe o seu
+escreval("informe o seu  carro")
+leia(informe carro)
+
 
 
 
